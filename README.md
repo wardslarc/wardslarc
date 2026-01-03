@@ -7,15 +7,18 @@ Full-Stack Web Developer | MERN Stack Specialist | Results-Driven Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlsdaleescalo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carlsdaleescalo)
 [![Email](https://img.shields.io/badge/Email-carlsdaleescalo@gmail.com-red?style=for-the-badge)](mailto:carlsdaleescalo@gmail.com)
 
+![Frieren](./frieren.gif)
+
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Results-driven Full-Stack Web Developer with **2+ years of experience** delivering scalable applications and optimizing digital performance. Expert in the **MERN stack** and JavaScript, with a proven track record of:
+I'm a Full-Stack Developer with **2+ years of experience** building web applications using the MERN stack. I specialize in creating secure, scalable solutions that solve real business problems. 
 
-- 🏢 Building internal systems for **80+ enterprise users**
-- 📈 Scaling corporate web traffic via **elite SEO strategies**
-- 🚀 Managing end-to-end project lifecycles from DNS configuration to secure, high-uptime deployment
-- 🔐 Implementing robust security measures and infrastructure management
+My highlights:
+- Built systems serving **80+ enterprise users**
+- Ranked **#1 on Google for organic search** on [citimax.ph](https://citimax.ph), driving **1,000+ monthly visitors**
+- Deployed and maintained applications with **99.9% uptime**
+- Expert in security, databases, and infrastructure management
 
 ---
