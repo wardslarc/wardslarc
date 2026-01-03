@@ -7,8 +7,6 @@ Full-Stack Web Developer | MERN Stack Specialist | Results-Driven Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-carlsdaleescalo-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carlsdaleescalo)
 [![Email](https://img.shields.io/badge/Email-carlsdaleescalo@gmail.com-red?style=for-the-badge)](mailto:carlsdaleescalo@gmail.com)
 
-![Frieren](./frieren.gif)
-
 ---
 
 ## 👨‍💻 About Me
@@ -22,3 +20,5 @@ My highlights:
 - Expert in security, databases, and infrastructure management
 
 ---
+
+![Frieren](./frieren.gif)
