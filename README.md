@@ -15,7 +15,6 @@ I'm a Full-Stack Developer with **2+ years of experience** building web applicat
 
 My highlights:
 - Built systems serving **80+ enterprise users**
-- Ranked **#1 on Google for organic search** on [citimax.ph](https://citimax.ph), driving **1,000+ monthly visitors**
 - Deployed and maintained applications with **99.9% uptime**
 - Expert in security, databases, and infrastructure management
 
